@@ -42,3 +42,14 @@ C:\Users\dougl\Documents\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1.Assemb
 C:\Users\dougl\Documents\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1.AssemblyInfo.cs
 C:\Users\dougl\Documents\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1.dll
 C:\Users\dougl\Documents\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1.pdb
+C:\Users\Iesus\Desktop\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1.csprojAssemblyReference.cache
+C:\Users\Iesus\Desktop\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\Iesus\Desktop\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1.AssemblyInfoInputs.cache
+C:\Users\Iesus\Desktop\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1.AssemblyInfo.cs
+C:\Users\Iesus\Desktop\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1.dll
+C:\Users\Iesus\Desktop\Atividade1\Atividade1POO\obj\Debug\netcoreapp2.1\Atividade1.pdb
+C:\Users\Iesus\Desktop\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1.deps.json
+C:\Users\Iesus\Desktop\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1.runtimeconfig.json
+C:\Users\Iesus\Desktop\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1.runtimeconfig.dev.json
+C:\Users\Iesus\Desktop\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1.dll
+C:\Users\Iesus\Desktop\Atividade1\Atividade1POO\bin\Debug\netcoreapp2.1\Atividade1.pdb

@@ -28,7 +28,7 @@ namespace Atividade1
                 {
                     return;
                 }
-                ContaCorrente cc = agencia.getCCorrente(num_conta);
+                ContaCorrente cc = agencia.getCorrente(num_conta);
                 if(cc == null)
                 {
                     return;
@@ -70,7 +70,7 @@ namespace Atividade1
                 {
                     return;
                 }
-                ContaPoupanca cp = agencia.getCPoupanca(num_conta);
+                ContaPoupanca cp = agencia.getPoupanca(num_conta);
                 if (cp == null)
                 {
                     return;

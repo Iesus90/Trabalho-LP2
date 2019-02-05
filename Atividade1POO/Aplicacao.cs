@@ -15,7 +15,8 @@ namespace Atividade1
             int idContaPoupanca = 1;
 
             Banco b = new Banco();
-            while (true)
+            bool init = true;
+            while (init)
             {
                 Menu();
                 int op = int.Parse(ReadLine());
